@@ -1,6 +1,17 @@
-# This is MarkDown file
+# Retail Sales Analysis
+This retail sales dataset was merged from a folder that contained the sales for twelve consecutive months in 2019. 
+- Dataset size: 186,850
+- Libraries used: Pandas, ydata_profiling, numpy, matplotlib, seaborn, os, itertools, and collections. 
 
-How R U? 
+### Outlining the analysis process
+1. Dataset creation: Merging all CSV files (data integration).  
+2. Data cleansing
+3. Memory optimisation & data transformation 
+4. Adding additional (necessary) columns for analysis and clarity 
+5. Quick analysis - Pandas-profiling
+6. Analysis
 
-## Sub Category
-I am good yourself? 
+### Additional Methods Implemented
+1. Formatting table output with HTML 
+
+
