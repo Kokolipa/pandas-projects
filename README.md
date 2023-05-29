@@ -15,6 +15,7 @@ This retail sales dataset was merged from a folder that contained the sales for 
 1. Formatting table output with HTML 
 
 #### Folder structure
+----
 ``` yml
 .
 ├── Pandas - Project
