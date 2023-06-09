@@ -1,4 +1,3 @@
-hello
 # Retail Sales Analysis
 This retail sales dataset was merged from a folder that contained the sales for twelve consecutive months in 2019. 
 - Dataset size: 186,850
